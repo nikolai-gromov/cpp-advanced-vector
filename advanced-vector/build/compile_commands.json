@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/nikolai/projects/practicum/cpp-advanced-vector/advanced-vector/build",
+  "command": "/usr/bin/g++  -I/home/nikolai/projects/practicum/cpp-advanced-vector/advanced-vector/. -g -o CMakeFiles/advanced_vector.dir/main.cpp.o -c /home/nikolai/projects/practicum/cpp-advanced-vector/advanced-vector/main.cpp",
+  "file": "/home/nikolai/projects/practicum/cpp-advanced-vector/advanced-vector/main.cpp"
+}
+]
